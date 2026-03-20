@@ -1,7 +1,7 @@
 ## Hi there 👋 I AM KASHISH KUMAR
 
 # 💫 About Me:
-👀 Interests: Web development and programming<br>🌱 Currently Mastering: Full-Stack Web Development & Competitive Programming<br>💞️ Looking to Collaborate On: Innovative web projects, open-source contributions, and hackathons<br>🌐 Portfolio: Portfolio https://kashishkumarportfolio.netlify.app/<br>😄 Pronouns: He/Him<br>⚡ Fun Fact: I love coding and watching anime!
+👀 Interests: Web development and programming<br>🌱 Currently Mastering: Full-Stack Web Development & Competitive Programming<br>💞️ Looking to Collaborate On: Innovative web projects, open-source contributions, and hackathons<br>🌐 Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Google-Chrome&logoColor=white)](https://kashishkumarportfolio.netlify.app)/<br>😄 Pronouns: He/Him<br>⚡ Fun Fact: I love coding and watching anime!
 
 
 ## 🌐 Socials:
