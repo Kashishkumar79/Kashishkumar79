@@ -64,13 +64,6 @@
 
 ---
 
-### 📊 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshgoyal777&layout=compact&theme=radical" />
-</p>
-
----
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
